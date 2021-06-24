@@ -1,0 +1,83 @@
+*{
+	font-family:Cambria,Geneva,Calibri;	
+}
+.container{
+	width:800px;
+	margin:auto;
+}
+.week{
+	padding-left:40px;
+	padding-right:0px;
+	font-size:36px;
+	overflow:hidden;
+	margin-bottom:0px;
+	margin-top:60px;
+	padding-bottom:2px;
+	padding-top:7px;
+}
+.date{
+	padding-left:42px;
+	padding-right:0px;
+	font-size:20px;
+	overflow:hidden;
+	margin-bottom:0px;
+	padding-bottom:10px;
+	padding-top:1px;
+	margin-top:0px;
+}
+.content1{
+	width:680px;
+	padding-left:43px;
+	font-size:21px;
+	text-align:justify;
+	margin:0px;
+	padding-bottom:0px;
+	padding-top:25px;
+}
+.content2{
+	width:680px;
+	padding-left:43px;
+	font-size:21px;
+	text-align:justify;
+	margin:0px;
+	padding-bottom:0px;
+	padding-top:14px;
+}
+.inimage{
+	width:680px;
+	height:280px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	padding-left:43px;
+}/*initial*/
+.inimage1{
+	width:410px;
+	height:680px;
+	padding-left:160px;
+	padding-top:40px;
+	padding-bottom:0px;
+	margin-bottom:10px;
+} /*app*/
+.inimage2{
+	width:300px;
+	height:300px;
+	padding-left:210px;
+	padding-top:20px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+}/*final*/
+.initial{
+	padding-left:43px;
+	padding-right:0px;
+	font-size:24px;
+	overflow:hidden;
+	margin:0px;
+	margin-top:20px;
+	padding-bottom:10px;
+}
+a.design{
+	text-decoration:none;
+	color:blue;
+	text-transform: lowercase;
+	padding:0px;
+}
